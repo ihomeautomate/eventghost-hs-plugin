@@ -1,11 +1,11 @@
 eventghost-hs-plugin
 ====================
 
-EventGhost plugin to connect to homeseer from within Eventghost
+EventGhost plugin to connect to homeseer (v2) from within Eventghost
 
 Installation
 ------------
-Copy "Homeseer" folder to /plugins folder inside the installation directory of EventGhost.
+Copy "Homeseer" folder to `/plugins` folder inside the installation directory of EventGhost.
 Restart EventGhost and add/configure plugin.
 Have fun!
 
@@ -16,6 +16,6 @@ More information on HomeSeer, visit http://www.homeseer.com
 
 You want more?
 --------------
-Don't hesitate to check http://www.iHomeAutomate.eu for more home automation projects
+Don't hesitate to check http://iHomeAutomate.com for more home automation projects
 
 
